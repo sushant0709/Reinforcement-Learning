@@ -11,5 +11,5 @@ https://github.com/sushant0709/Reinforcement-Learning/assets/40301987/8104c503-6
 
 ### Agent behavior when RL based startegy is applied ->
 
-[![RL based strategy](./videos/RL%20based%20strategy.mp4)]
+https://youtu.be/F7IexHUwr18
 
